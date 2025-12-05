@@ -1,15 +1,8 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.7",
+	"EngineAssociation": "5.6",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "Oraculo_ECI",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
